@@ -1,21 +1,103 @@
-# 💫 About Me:
-A 3rd-year student majoring in Software Engineering, oriented towards becoming a Web Developer in the .NET ecosystem. Currently seeking<br>an Internship position to apply programming knowledge (MVC, SQL Server, API) into real-world projects, with the ultimate goal of becoming<br>a full-time employee.
+<h1 align="center">Hi there, I'm Quang Sáng 👋</h1>
+<h3 align="center">Backend Developer Intern | ASP.NET Core & Web Development</h3>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sawn.005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qn.sawn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@devcungqs) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sawn05&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sawn05&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sawn05&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sawn05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <i>A 3rd-year Software Engineering student passionate about building modern web applications in the .NET ecosystem.</i>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sawn05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🎓 Majoring in **Software Engineering**
+- 💡 Oriented towards becoming a **.NET Web Developer**
+- 📚 Interested in Backend Development, Database Design, and System Architecture
+- 🎯 Goal: Become a professional Full-time Software Engineer
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://facebook.com/sawn.005">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+  <a href="https://instagram.com/qn.sawn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://tiktok.com/@devcungqs">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Skill & Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <br>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <br>
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Highlighted Projects
+
+<i>Here are some projects I've been working on recently:</i>
+
+<div align="center">
+
+  <a href="https://github.com/sawn05/SecureNotesApp">
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=sawn05&repo=SecureNotesApp&theme=radical" />
+  </a>
+
+  <a href="https://github.com/sawn05/SupplyChainManagement">
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=sawn05&repo=SupplyChainManagement&theme=radical" />
+  </a>
+
+</div>
+
+<br>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/sawn05">
+    <img src="https://github-readme-stats.shion.dev/api?username=sawn05&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"/>
+  </a>
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com/?user=sawn05&theme=transparent&hide_border=false"/>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sawn05&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sawn05&icon=0&color=0" />
+</div>
